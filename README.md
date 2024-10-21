@@ -4,7 +4,7 @@ This is a simple RESTful API built with Laravel that allows users to manage task
 
 ## Requirements
 - PHP 8.0 or higher
-- Laravel 8.x
+- Laravel 11
 - PostgreSQL database
 
 ## Installation
