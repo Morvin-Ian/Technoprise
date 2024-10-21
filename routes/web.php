@@ -7,6 +7,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-//API
-Route::apiResource('api/tasks', TaskController::class);
